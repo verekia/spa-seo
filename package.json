@@ -6,6 +6,7 @@
     "start": "next-start"
   },
   "dependencies": {
+    "@sharyn/util.wait": "^1.0.7",
     "next": "^9.5.3",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
