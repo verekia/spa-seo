@@ -14,7 +14,7 @@ const IntervalPage = () => {
   return (
     <div>
       <Head>
-        <title>{output}</title>
+        <title>{output} | SPA SEO Test </title>
         <meta property="og:title" content={`${output} | SPA SEO Test`} />
         <meta name="twitter:title" content={`${output} | SPA SEO Test`} />
         <meta
