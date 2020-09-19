@@ -83,6 +83,21 @@ const AjaxPage = () => {
     await fetch('/api/get-data?duration=2000')
       .then((resp) => resp.json())
       .then(() => setLastDuration(50000))
+    await fetch('/api/get-data?duration=2000')
+      .then((resp) => resp.json())
+      .then(() => setLastDuration(52000))
+    await fetch('/api/get-data?duration=2000')
+      .then((resp) => resp.json())
+      .then(() => setLastDuration(54000))
+    await fetch('/api/get-data?duration=2000')
+      .then((resp) => resp.json())
+      .then(() => setLastDuration(56000))
+    await fetch('/api/get-data?duration=2000')
+      .then((resp) => resp.json())
+      .then(() => setLastDuration(58000))
+    await fetch('/api/get-data?duration=2000')
+      .then((resp) => resp.json())
+      .then(() => setLastDuration(60000))
   }
 
   useEffect(() => {
