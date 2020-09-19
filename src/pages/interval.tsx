@@ -15,10 +15,15 @@ const IntervalPage = () => {
     <div>
       <Head>
         <title>{output}</title>
-        <meta property="og:title" content={output} />
-        <meta name="twitter:title" content={output} />
+        <meta property="og:title" content={`${output} | SPA SEO Test`} />
+        <meta name="twitter:title" content={`${output} | SPA SEO Test`} />
+        <meta
+          name="description"
+          content={`${output} Some great description to make search engines happy`}
+        />
       </Head>
-      Content is - {output} - End of content
+      <h1>SPA SEO Test</h1>
+      <p>Content is - {output} - End of content</p>
     </div>
   )
 }
