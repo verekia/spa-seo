@@ -12,4 +12,6 @@ Facebook didn't show signs of waiting for delayed content either, as only the in
 
 ![Google result 2](/img/google%202.png)
 
-![Facebook result](/img/facebook.png)
+![Facebook result 1](/img/facebook%201.png)
+
+![Facebook result 2](/img/facebook%202.png)
