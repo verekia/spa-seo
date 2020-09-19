@@ -8,8 +8,8 @@ Bing didn't seem to show signs of waiting for anything, and simply showed the in
 
 Facebook didn't show signs of waiting for delayed content either, as only the initial open graph tags were taken into account.
 
-[Google result 1](/img/google%201.png)
+![Google result 1](/img/google%201.png)
 
-[Google result 2](/img/google%202.png)
+![Google result 2](/img/google%202.png)
 
-[Facebook result](/img/facebook.png)
+![Facebook result](/img/facebook.png)
