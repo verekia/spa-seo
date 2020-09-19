@@ -17,6 +17,16 @@ const IntervalPage = () => {
         <title>{output} | SPA SEO Test </title>
         <meta property="og:title" content={`${output} | SPA SEO Test`} />
         <meta name="twitter:title" content={`${output} | SPA SEO Test`} />
+        <meta name="twitter:card" content="summary" />
+        <meta name="twitter:site" content="@verekia" />
+        <meta
+          name="twitter:description"
+          content="This is just a dummy description, check the title."
+        />
+        <meta
+          name="twitter:image"
+          content="https://farm6.staticflickr.com/5510/14338202952_93595258ff_z.jpg"
+        />
         <meta
           name="description"
           content={`${output} Some great description to make search engines happy`}
